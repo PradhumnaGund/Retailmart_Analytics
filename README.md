@@ -1,5 +1,5 @@
 
-# RetailMart Enterprise Analytics Platform
+# RetailMart Enterprise Analytics
  A comprehensive, production-ready analytics platform built with PostgreSQL, featuring 25+ views, 10 materialized views, 32 JSON export functions, and a 7-tab interactive dashboard.
  - <a href="http://127.0.0.1:5500/06_dashboard/">Dashboard</a>
 
