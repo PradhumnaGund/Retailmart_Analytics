@@ -59,7 +59,7 @@ retailmart_analytics_project/
 
 ### Prerequisites
 
-- PostgreSQL 16+
+- PostgreSQL 18
 - pgAdmin 4 or any PostgreSQL client
 - Web browser (for dashboard)
 - Bash shell (for export script)
